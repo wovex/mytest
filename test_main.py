@@ -14,3 +14,6 @@ def test_add2():
 
 def test_add3():
     assert add(1,7) == 8
+
+def test_add4():
+    assert add(1,7) == 8
